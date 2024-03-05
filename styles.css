@@ -104,6 +104,12 @@
         float: left;
         
         }
+        #content{
+            float: right;
+            margin-top: 8px;
+            right: 5px;
+            font-size: 7px;
+        }
          
         
             
